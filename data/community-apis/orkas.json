@@ -1,0 +1,18 @@
+{
+  "name": "Orkas",
+  "description": "Metered chat, search, speech, image and video APIs for external applications, including OpenAI-compatible Chat Completions; separate from Orkas desktop agent coordination.",
+  "docsUrl": "https://orkas.ai/api-docs/?source=gh_saxi",
+  "websiteUrl": "https://orkas.ai/?source=gh_saxi",
+  "categories": [
+    "Machine Learning",
+    "Search",
+    "Voice"
+  ],
+  "auth": "API Key",
+  "cors": "Unknown",
+  "https": true,
+  "free": false,
+  "addedAt": "2026-10-15",
+  "openapiUrl": "",
+  "notes": "The official hosted API uses an Orkas API key and metered credits; no ongoing free API tier is claimed. Orkas also offers an open-source, local-first desktop AI workforce: Commander coordinates specialist agents, with supported own-provider/API-key access. The core app is free. Hosted API calls are distinct from desktop agent control. Submitted for factual editorial review by the Orkas promotion campaign with AI assistance; no independent usage or performance claim."
+}
